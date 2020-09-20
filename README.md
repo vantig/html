@@ -1,2 +1,1 @@
-# vantig-JS2020Q3
-Private repository for @vantig
+https://vantig.github.io/html/webdev/index.html
