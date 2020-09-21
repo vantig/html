@@ -537,6 +537,9 @@ a:hover {
     border-radius: 0px;
     border: 0;
 }
+.but:hover{
+    background-color: rgb(12, 14, 172);
+}
 
 .download {
     position: absolute;
