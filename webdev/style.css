@@ -538,7 +538,7 @@ a:hover {
     border: 0;
 }
 .but:hover{
-    background-color:#009CC2;
+    background-color:red;
 }
 
 .download {
